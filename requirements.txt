@@ -1,0 +1,12 @@
+# Basic requirements for the project
+tkinter
+pandas
+numpy
+# For OCR (example, can be replaced)
+# pytesseract
+# pillow
+
+# For Large Language Models (example, depends on the chosen model/API)
+# openai
+
+# Add other specific libraries as needed
